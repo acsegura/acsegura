@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-25T16:46:56+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Blog para asignatura Des. App. Red</title><subtitle>Este proyecto consiste en el desarrollo de un blog y la configuracion de varias de sus entradas para el primer ejercicio de la asignatura.</subtitle><entry><title type="html">Como preparar tu sistema para crear un blog</title><link href="http://localhost:4000/actualizacion/de/github/2024/11/22/segunda-entrada.html" rel="alternate" type="text/html" title="Como preparar tu sistema para crear un blog" /><published>2024-11-22T09:59:41+01:00</published><updated>2024-11-22T09:59:41+01:00</updated><id>http://localhost:4000/actualizacion/de/github/2024/11/22/segunda-entrada</id><content type="html" xml:base="http://localhost:4000/actualizacion/de/github/2024/11/22/segunda-entrada.html"><![CDATA[<p>Desde nuestro panel de control de GITHUB podemos controlar todos los sitios o proyectos que vayamos creando. Es un interfaz intuitivo y práctico, que resulta muy cómodo de manejar para trabajar con todo.</p>
+
+<p>El resultado de nuestro primer proyecto, el blog de la asignatura es este:</p>
+
+<p><a href="https://acsegura.github.io.">https://acsegura.github.io.</a></p>
+
+<p><img src="images/post3.png" alt="Github" /></p>
+
+<p>Desde aquí puedes acceder al blog a través del navegador.</p>
+
+<p><a href="https://jekyllrb.com/docs/home">Si quieres ver la página principal de Jekyll pulsa aqui</a></p>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="ACTUALIZACION" /><category term="DE" /><category term="GITHUB" /><summary type="html"><![CDATA[Desde nuestro panel de control de GITHUB podemos controlar todos los sitios o proyectos que vayamos creando. Es un interfaz intuitivo y práctico, que resulta muy cómodo de manejar para trabajar con todo.]]></summary></entry><entry><title type="html">Bienvenidos al blog de la asignatura</title><link href="http://localhost:4000/post/update/sobre/blog/2024/11/21/primera-entrada.html" rel="alternate" type="text/html" title="Bienvenidos al blog de la asignatura" /><published>2024-11-21T09:09:41+01:00</published><updated>2024-11-21T09:09:41+01:00</updated><id>http://localhost:4000/post/update/sobre/blog/2024/11/21/primera-entrada</id><content type="html" xml:base="http://localhost:4000/post/update/sobre/blog/2024/11/21/primera-entrada.html"><![CDATA[<p>Ya tenemos todo el contenido listo, vamos ahora a publicar nuestro blog utilizando GITHUB que nos va a permitir crear repositorios de manera sencilla y totalmente gratuita.</p>
+
+<p>En primer lugar tendremos que tener una cuenta, de no ser así se puede crear una de manera gratuita para posteriormente subir el contenido y tener publicado y disponible nuestro blog en el siguiente enlace:</p>
+
+<p><a href="https://acsegura.github.io.">https://acsegura.github.io.</a></p>
+
+<p><img src="images/post2.png" alt="Github" /></p>
+
+<p>Desde aquí puedes acceder al blog a través del navegador.</p>
+
+<p><a href="https://jekyllrb.com/docs/home">Si quieres ver la página principal de Jekyll pulsa aqui</a></p>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="POST" /><category term="UPDATE" /><category term="SOBRE" /><category term="BLOG" /><summary type="html"><![CDATA[Ya tenemos todo el contenido listo, vamos ahora a publicar nuestro blog utilizando GITHUB que nos va a permitir crear repositorios de manera sencilla y totalmente gratuita.]]></summary></entry><entry><title type="html">Tenemos servidor activo</title><link href="http://localhost:4000/2024/11/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Tenemos servidor activo" /><published>2024-11-20T10:09:41+01:00</published><updated>2024-11-20T10:09:41+01:00</updated><id>http://localhost:4000/2024/11/20/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2024/11/20/welcome-to-jekyll.html"><![CDATA[<p>Una vez que se han descargado todos los paquetes de instalación se han instalado correctamente creando una instancia nueva para el servidor.</p>
+
+<p>Para ponerlo en marcha tienes que ir a la carpeta donde se ha creado el blog y lanzar la ejecucion del programa con el comando:</p>
+
+<p>bundle exec jekyll serve</p>
+
+<p>Se ha puesto en marcha y este es el resultado:</p>
+
+<p><img src="images/servidor.png" alt="Servidor" /></p>
+
+<p>Desde aquí puedes acceder a través del navegador mediente el <a href="http://localhost:4000/">enlace</a> “http://localhost:4000”</p>
+
+<p>Para poder trabajar con el gestor elegido (Jekyll) tenemos esta página que nos ayuda con los parámetros básico de puesta en marcha:</p>
+
+<p><a href="https://jekyllrb.com/docs/home">Si quieres ver la página principal de Jekyll pulsa aqui</a></p>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Una vez que se han descargado todos los paquetes de instalación se han instalado correctamente creando una instancia nueva para el servidor.]]></summary></entry></feed>
